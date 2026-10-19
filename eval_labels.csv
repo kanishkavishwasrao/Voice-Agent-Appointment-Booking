@@ -1,0 +1,36 @@
+id,intended,category,condition,speaker,expected_date,expected_time,expected_qualifier
+01,kal sawa chaar baje,fraction,quiet,me,2026-10-19,16:15,
+02,kal saade teen baje,fraction,quiet,me,2026-10-19,15:30,
+03,kal paune paanch baje,fraction,quiet,me,2026-10-19,16:45,
+04,kal dedh baje,fraction,quiet,me,2026-10-19,13:30,
+05,parson dhai baje,fraction,quiet,me,2026-10-20,14:30,
+06,kal sawa baje,fraction,quiet,me,2026-10-19,13:15,
+07,parson shaam ko sawa paanch baje,fraction,quiet,me,2026-10-20,17:15,
+08,narson subah saade das baje,fraction,quiet,me,2026-10-21,10:30,
+09,kal shaam paune saat baje,fraction,quiet,me,2026-10-19,18:45,
+10,parson subah paune gyarah baje,fraction,quiet,me,2026-10-20,10:45,
+11,parson subah das baje,rel_day,quiet,me,2026-10-20,10:00,
+12,narson dopahar do baje,rel_day,quiet,me,2026-10-21,14:00,
+13,aaj shaam chhe baje,rel_day,quiet,me,2026-10-18,18:00,
+14,kal dopahar do baje,rel_day,quiet,me,2026-10-19,14:00,
+15,somvar subah gyarah baje,weekday,quiet,me,2026-10-19,11:00,
+16,agle shukrawar shaam saade paanch baje,weekday,quiet,me,2026-10-23,17:30,
+17,shaniwar subah nau baje,weekday,quiet,me,2026-10-24,09:00,
+18,aadhe ghante mein,duration,quiet,me,2026-10-18,14:30,relative
+19,dedh ghante baad,duration,quiet,me,2026-10-18,15:30,relative
+20,paune ghante mein,duration,quiet,me,2026-10-18,14:45,relative
+21,do ghante mein,duration,quiet,me,2026-10-18,16:00,relative
+22,paanch minute mein,duration,quiet,me,2026-10-18,14:05,relative
+23,kal shaam ko paanch baje ke baad,qualifier,quiet,me,2026-10-19,17:00,after
+24,kal shaam saat baje se pehle,qualifier,quiet,me,2026-10-19,19:00,before
+25,kal paanch baje ke aaspaas,qualifier,quiet,me,2026-10-19,17:00,around
+26,kal paanch baje,ampm,quiet,me,2026-10-19,17:00,
+27,kal das baje,ampm,quiet,me,2026-10-19,10:00,
+28,parson raat ke aath baje,ampm,quiet,me,2026-10-20,20:00,
+29,kal paanch bajke das minute pe,minutes,quiet,me,2026-10-19,17:10,
+30,tomorrow evening six baje,codemix,quiet,me,2026-10-19,18:00,
+31,mujhe kal doctor se milna hai shaam ko chaar baje,codemix,quiet,me,2026-10-19,16:00,
+32,day after tomorrow morning ten baje,codemix,quiet,me,2026-10-20,10:00,
+33,kal nahi parson shaam paanch baje,correction,quiet,me,2026-10-20,17:00,
+34,kal shaam paanch baje nahi chhe baje,correction,quiet,me,2026-10-19,18:00,
+35,parson nahi narson subah nau baje,correction,quiet,me,2026-10-21,09:00,
